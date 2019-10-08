@@ -1,0 +1,16 @@
+name: notebook_env
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3
+- jupyter
+- nb_conda_kernels
+- scipy
+- psycopg2
+- pandas
+- ipywidgets
+- numpy
+- xlrd
+- openpyxl
+- matplotlib
