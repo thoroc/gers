@@ -1,3 +1,12 @@
+# Purpose
+
+Investigating the Gouvernment Expenditure and Revenue in Scotland (GERS).
+
+## Source
+
+All the data is publicly available at: www.gov.scot/publications/government-expenditure-revenue-scotland-gers/
+
+
 # Usage
 
 ## create the environment:
