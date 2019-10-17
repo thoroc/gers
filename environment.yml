@@ -14,3 +14,12 @@ dependencies:
 - xlrd
 - openpyxl
 - matplotlib
+- maya
+- humanize
+- seaborn
+# - cufflinks
+- plotly
+# - ordereddict
+# - collections
+- ipysheet
+- flexx
